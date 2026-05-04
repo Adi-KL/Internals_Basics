@@ -3,6 +3,3 @@ numpy
 scikit-learn
 joblib
 mlflow
-fastapi
-uvicorn
-requests
