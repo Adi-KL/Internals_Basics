@@ -1,0 +1,12 @@
+{
+  "image_name": "gamelag-predictor",
+  "image_tag": "v1",
+  "base_image": "python:3.11-slim",
+  "test_input": {
+    "server_region": 2,
+    "concurrent_players": 3414,
+    "packet_size_kb": 4.9,
+    "is_ranked_match": 0
+  },
+  "prediction": 91.6812
+}
